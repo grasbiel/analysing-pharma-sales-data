@@ -1,3 +1,5 @@
+url project https://roadmap.sh/projects/pharmaceutical-sales-data
+
 Project Description
 In this project, you will analyze pharmaceutical sales data. Analysing sales data based on historical data is a very common data analysis task. This is a great way to start working with data science projects.
 
@@ -22,4 +24,3 @@ Which drug category has the highest average daily sales?
 
 Are respiratory drugs (R03) sold more during specific months?
 
-https://roadmap.sh/projects/pharmaceutical-sales-data
