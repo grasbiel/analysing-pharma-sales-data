@@ -21,3 +21,5 @@ Which drug has sold the most often in 2017?
 Which drug category has the highest average daily sales?
 
 Are respiratory drugs (R03) sold more during specific months?
+
+https://roadmap.sh/projects/pharmaceutical-sales-data
